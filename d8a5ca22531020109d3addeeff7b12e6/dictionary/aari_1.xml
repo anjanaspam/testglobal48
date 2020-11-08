@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Aari 1" max_length="40" name="aari_1" type="collection">
+        <element label="aari 2" max_length="40" name="aari_2" type="integer"/>
+        <element label="Aari 3" max_length="40" name="aari_3" type="integer"/>
+        <element label="Int col" max_length="40" name="int_col" type="integer"/>
+    </element>
+</database>

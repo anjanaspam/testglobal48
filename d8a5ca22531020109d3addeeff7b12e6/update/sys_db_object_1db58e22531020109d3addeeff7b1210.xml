@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Aari 1</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>aari_1</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-08 17:45:34</sys_created_on>
+        <sys_id>1db58e22531020109d3addeeff7b1210</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aari_1</sys_name>
+        <sys_package display_value="aari" source="d8a5ca22531020109d3addeeff7b12e6">d8a5ca22531020109d3addeeff7b12e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aari">d8a5ca22531020109d3addeeff7b12e6</sys_scope>
+        <sys_update_name>sys_db_object_1db58e22531020109d3addeeff7b1210</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-08 17:45:34</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="aari_1_user" name="aari_1_user">43b58e22531020109d3addeeff7b1253</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="aari">d8a5ca22531020109d3addeeff7b12e6</claim_owner_scope>
+        <claim_timestamp>175a8f7bfd80000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_1db58e22531020109d3addeeff7b1210</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>aari</previous_claim_name>
+        <previous_claim_scope>d8a5ca22531020109d3addeeff7b12e6</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-08 17:46:50</sys_created_on>
+        <sys_id>6906c262531020109d3addeeff7b12dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-08 17:46:50</sys_updated_on>
+    </sys_claim>
+</record_update>
